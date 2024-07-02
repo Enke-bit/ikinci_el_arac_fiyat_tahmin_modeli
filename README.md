@@ -38,16 +38,16 @@ Bu sonuçlar, modelin fiyat tahmininde oldukça iyi bir performans sergilediğin
 
 ## Yapılan diğer 'Linear Regression, Decision Tree, Gradient Boosting ve XGBoost' modelleri ile işlem yaptırma.
 
-Random Forest Mean Absolute Error: 0.587265573770492
-Gradient Boosting Mean Absolute Error: 0.5661905639637241
-Decision Tree Mean Absolute Error: 0.8452459016393442
-Linear Regression Mean Absolute Error: 1.2162256821304775
-XGBoost Mean Absolute Error: 0.5863588008528849
+- Random Forest Mean Absolute Error: 0.587265573770492
+- Gradient Boosting Mean Absolute Error: 0.5661905639637241
+- Decision Tree Mean Absolute Error: 0.8452459016393442
+- Linear Regression Mean Absolute Error: 1.2162256821304775
+- XGBoost Mean Absolute Error: 0.5863588008528849
 
 ## En başarılı model 'Decision Tree Mean Absolute' bu model ile tahmin yaptırma.
 
-Tahmin Edilen Fiyat: 5.618856249986547
-Gerçek Fiyat: 5.35
+- Tahmin Edilen Fiyat: 5.618856249986547
+- Gerçek Fiyat: 5.35
 
 bu şekilde bir sonuç aldım bu en başarılı model.
 
