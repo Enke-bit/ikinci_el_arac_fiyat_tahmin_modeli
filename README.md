@@ -36,7 +36,22 @@ Proje sonucunda elde edilen Mean Absolute Error (MAE) değeri: `0.5872` dir. Ras
 
 Bu sonuçlar, modelin fiyat tahmininde oldukça iyi bir performans sergilediğini göstermektedir.
 
-## Projeye Katkı ve Destek
+## Yapılan diğer 'Linear Regression, Decision Tree, Gradient Boosting ve XGBoost' modelleri ile işlem yaptırma.
+
+Random Forest Mean Absolute Error: 0.587265573770492
+Gradient Boosting Mean Absolute Error: 0.5661905639637241
+Decision Tree Mean Absolute Error: 0.8452459016393442
+Linear Regression Mean Absolute Error: 1.2162256821304775
+XGBoost Mean Absolute Error: 0.5863588008528849
+
+## En başarılı model 'Decision Tree Mean Absolute' bu model ile tahmin yaptırma.
+
+Tahmin Edilen Fiyat: 5.618856249986547
+Gerçek Fiyat: 5.35
+
+bu şekilde bir sonuç aldım bu en başarılı model.
+
+## Projeye Katkı ve Destek 
 
 Projeyi beğendiyseniz ve katkıda bulunmak isterseniz, lütfen projeyi fork edin ve pull request gönderin. Her türlü katkı ve destek için minnettar oluruz. Ayrıca, projeyi yıldızlayarak destek olabilir ve başkalarının da faydalanmasını sağlayabilirsiniz.
 
